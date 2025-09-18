@@ -113,7 +113,7 @@ Traditional promotion processes often lack transparency and fairness. By leverag
 
 # 🏁 Conclusion  
 
-🚀 This project demonstrates how **machine learning** can be applied in **HR analytics** to ensure **fair, unbiased, and data-driven promotion decisions**.  
+🚀 This project demonstrates how **machine learning** can be applied in **analytics** to ensure **fair, unbiased, and data-driven promotion decisions**.  
 It highlights **EDA, preprocessing, and predictive modeling expertise** while solving a **real-world business problem**.  
 
 ✨ Developed by **Ayushman Rout** – Passionate about Data Analytics & Data Science!  
