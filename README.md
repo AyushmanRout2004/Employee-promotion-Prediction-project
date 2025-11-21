@@ -1,7 +1,6 @@
 # 🧠 Employee Promotion Prediction Project  
 
 📌 **GitHub Repository Link:** https://github.com/AyushmanRout2004 
-
 ---
 
 # 📌 Project Overview  
@@ -14,13 +13,13 @@ Traditional promotion processes often lack transparency and fairness. By leverag
 
 ---
 
-# 🛠️ Tools & Technologies  
+# 🛠 Tools & Technologies  
 
-- 🐍 **Python** – Data Cleaning, EDA & Modeling  
-- 📊 **Pandas & NumPy** – Data manipulation  
-- 📈 **Matplotlib & Seaborn** – Visualizations  
-- 🤖 **XGBoost** – Machine Learning Model  
-- ⚡ **Scikit-learn** – Model evaluation & metrics  
+- 🐍 *Python* – Data Cleaning, EDA & Modeling  
+- 📊 *Pandas & NumPy* – Data manipulation  
+- 📈 *Matplotlib & Seaborn* – Visualizations  
+- 🤖 *Decision Tree Classifier* – Machine Learning Model  
+- ⚡ *Scikit-learn* – Model evaluation & metrics  
 
 ---
 
@@ -41,9 +40,9 @@ Traditional promotion processes often lack transparency and fairness. By leverag
 
 ### 🔹 Step 4: Feature Encoding  
 ✔ Used Label Encoding for categorical features  
-✔ Works effectively for tree-based models like XGBoost  
+✔ Works effectively for tree-based models like Decision Tree Classifier  
 
-### 🔹 Step 5: Model Building (XGBoost)  
+### 🔹 Step 5: Model Building (Decision Tree Classifier)  
 ⚡ Train-Test Split (80:20)  
 ⚡ Model trained & validated on structured data  
 ⚡ Metrics used: Accuracy, Precision, Recall (due to imbalance)  
@@ -61,18 +60,18 @@ Traditional promotion processes often lack transparency and fairness. By leverag
 
 # ✅ Key Features & Insights  
 
-- 📌 Developed **XGBoost ML model** for predicting promotions  
-- 📊 Performed **EDA** (bar plots, box plots, heatmaps) to uncover patterns  
-- 🧹 Applied **robust preprocessing** (imputation, encoding, feature selection)  
-- ⚡ Achieved **strong performance** on validation set with imbalanced data  
-- 📂 Delivered **CSV predictions** for HR business use-case  
+- 📌 Developed *Decision Tree ML model* for predicting promotions  
+- 📊 Performed *EDA* (bar plots, box plots, heatmaps) to uncover patterns  
+- 🧹 Applied *robust preprocessing* (imputation, encoding, feature selection)  
+- ⚡ Achieved *strong performance* on validation set with imbalanced data  
+- 📂 Delivered *CSV predictions* for HR business use-case  
 
 ---
 
 # 📂 Dataset Details  
 
-- 📌 **Dataset Size:** 1M+ employee records  
-- 📌 **Columns Include:**  
+- 📌 *Dataset Size:* 1M+ employee records  
+- 📌 *Columns Include:*  
   - Department  
   - Region  
   - Education  
@@ -84,20 +83,20 @@ Traditional promotion processes often lack transparency and fairness. By leverag
 
 # 🚀 Why This Project Stands Out  
 
-⭐ End-to-End **ML Pipeline** – From raw employee data ➝ predictions  
-⭐ Large-Scale Dataset – Worked with **1M+ records**  
-⭐ Real-World HR Application – **Data-driven promotions**  
-⭐ Strong Storyline – Perfect for **interviews & resumes**  
+⭐ End-to-End *ML Pipeline* – From raw employee data ➝ predictions  
+⭐ Large-Scale Dataset – Worked with *1M+ records*  
+⭐ Real-World HR Application – *Data-driven promotions*  
+⭐ Strong Storyline – Perfect for *interviews & resumes*  
 
 ---
 
 # 🌟 Project Highlights  
 
-- 📌 **Total Employees Analyzed:** 1M+  
-- 📌 **Key Visuals:** Bar Plots | Box Plots | Heatmaps  
-- 📌 **Model Used:** XGBoost  
-- 📌 **Metrics:** Accuracy, Precision, Recall  
-- 📌 **Output:** CSV Predictions  
+- 📌 *Total Employees Analyzed:* 1M+  
+- 📌 *Key Visuals:* Bar Plots | Box Plots | Heatmaps  
+- 📌 *Model Used:* XGBoost  
+- 📌 *Metrics:* Accuracy, Precision, Recall  
+- 📌 *Output:* CSV Predictions  
 
 ---
 
@@ -113,7 +112,7 @@ Traditional promotion processes often lack transparency and fairness. By leverag
 
 # 🏁 Conclusion  
 
-🚀 This project demonstrates how **machine learning** can be applied in **analytics** to ensure **fair, unbiased, and data-driven promotion decisions**.  
-It highlights **EDA, preprocessing, and predictive modeling expertise** while solving a **real-world business problem**.  
+🚀 This project demonstrates how *machine learning* can be applied in *analytics* to ensure *fair, unbiased, and data-driven promotion decisions*.  
+It highlights *EDA, preprocessing, and predictive modeling expertise* while solving a *real-world business problem*.  
 
-✨ Developed by **Ayushman Rout** – Passionate about Data Analytics & Data Science!  
+✨ Developed by * AYUSHMAN ROUT * – Passionate about Data Analytics & Data Science!
